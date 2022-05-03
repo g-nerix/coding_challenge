@@ -14,4 +14,4 @@ Upon reading several articles and looking through some previously published pape
 ## Now let's talk about some numbers:
 I planned on using mediapipe library to get landmarks from on the dataset. It returns a list of 468 3-D points on the face. This is far less than 1280X720 (921,600) points in the original dataset
 
-# I was not able to give enough time to this project and thereby this in incomplete
+# I was not able to give enough time to this project and thereby this is incomplete

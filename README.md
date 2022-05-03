@@ -1,6 +1,6 @@
 # coding_challenge
 ## Note: 
-I am an amature in this field, I have previously not taken any coures in AI/ML, I do stuff because these things Interuige me. Please forgive me I do some thing wrong here.
+I am an amature in this field, I have previously not taken any coures in AI/ML, I do stuff because these things Interuige me. Please forgive me if I do some thing wrong here.
 
 ## Approach (use CNN+LSTM (Convolutional Neural Network + Long Short Term Memory Deep learning Model)):
 Seeing the dataset provided, it was clear that standard CNN won't do the work here since we can only extract features from the video, which won't be sufficient here since we are given a time-varying dataset. We would have to use something different. 
